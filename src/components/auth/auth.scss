@@ -22,7 +22,7 @@
       border-top-left-radius: 20px;
 
       img {
-        max-height: 300px;
+        max-height: 500px;
         min-width: 100%;
       }
     }
@@ -37,7 +37,8 @@
         padding: 20px;
 
         .input-field {
-          input {
+          input,
+          select {
             height: 40px;
             width: 100%;
             box-sizing: border-box;
