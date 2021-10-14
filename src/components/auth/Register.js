@@ -3,6 +3,7 @@ import "./auth.scss";
 import RegisterImage from "../../assets/images/register.svg";
 import { Link } from "react-router-dom";
 
+
 const Register = () => {
   return (
     <div id="auth-container">
